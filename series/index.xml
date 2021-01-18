@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on 💻 ⏬ under 😜</title>
+    <link>https://techdownunder.ga/series/</link>
+    <description>Recent content in Series on 💻 ⏬ under 😜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0530</lastBuildDate><atom:link href="https://techdownunder.ga/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperMod</title>
+      <link>https://techdownunder.ga/series/papermod/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0530</pubDate>
+      
+      <guid>https://techdownunder.ga/series/papermod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Themes Guide</title>
+      <link>https://techdownunder.ga/series/themes-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdownunder.ga/series/themes-guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
