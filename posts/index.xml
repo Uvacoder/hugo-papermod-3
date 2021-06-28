@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 💻 ⏬ under 😜</title>
     <link>https://techdownunder.ga/posts/</link>
     <description>Recent content in Posts on 💻 ⏬ under 😜</description>
+    <image>
+      <url>https://techdownunder.ga</url>
+      <link>https://techdownunder.ga</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://techdownunder.ga/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
