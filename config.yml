@@ -113,21 +113,15 @@ params:
       - Built with love using HUGO theme - **PaperMod**.
   socialIcons:
     - name: github
-      url: "https://github.com/debanjanbasu"
+      url: "https://github.com/uvacoder"
     - name: email
-      url: "debanjanbasu2006@gmail.com"
-    - name: facebook
-      url: "https://www.facebook.com/debanjan.basu"
-    - name: instagram
-      url: "https://www.instagram.com/debanjan.basu/"
+      url: "freeunioncoder@gmail.com"
     - name: linkedin
-      url: "https://www.linkedin.com/in/debanjan-basu-9b391234/"
+      url: "https://www.linkedin.com/in/alecbcampbell/"
     - name: twitter
-      url: "https://twitter.com/debanjanbasu"
+      url: "https://twitter.com/AlecCam43544378"
     - name: paypal
-      url: "https://paypal.me/debanjanbasuaus"
-    - name: KoFi
-      url: "https://ko-fi.com/debanjanbasu"
+      url: "https://paypal.me/debanjanbasuaus
     - name: RsS
       url: "index.xml"
 
